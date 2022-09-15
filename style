@@ -1,0 +1,117 @@
+* {
+    /* height: 100%; */
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(252, 143, 0);
+}
+
+ul {
+    padding: 8px;
+    float: right;
+}
+
+li {
+    padding-left: 25px;
+    display: inline-block;
+
+}
+
+
+
+
+.left {
+    float: left;
+}
+
+h1 {
+    color: white;
+}
+
+/* .redColor{
+    color: yellow;
+} */
+#wrap {
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+#nheader {
+    background-color: rgb(109, 117, 114);
+    padding: 50px;
+    height: 50px;
+    text-align: left;
+    left: 50px;
+    right: 50px;
+    font-family: Calibri;
+    font-size: 1em;
+    color: white;
+
+}
+
+h1 {
+    color: white;
+}
+
+img {
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+
+#npara {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(184, 181, 181);
+    height: auto;
+    width: 70%;
+
+    /* background-image: url('image3.jpg');
+background-position: bottom left ;
+background-attachment: fixed; */
+}
+
+.text_para_title {
+    color: rgb(243, 5, 5);
+    font-size: 50px;
+    font-family: Calibri;
+}
+
+.text_para {
+    color: rgb(1, 1, 10);
+    font-size: 18px;
+    font-family: Calibri;
+    line-height: 1.5cm;
+}
+
+
+/* .redColorAll{
+    color: rgb(214, 236, 15);
+
+} */
+#footer {
+    background-color: rgb(63, 65, 63);
+    padding-top: 0px;
+    background-position: 0%;
+}
+
+#sideBar {
+    background-color: yellow;
+    border: solid 2px black;
+    float: right;
+    width: 30%;
+}
+/* #sideBarImg{
+padding-top: 20px;
+padding-bottom: 0px;
+
+} */
